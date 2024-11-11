@@ -59,3 +59,4 @@ C:\Users\gabri\Desktop\Nueva carpeta (2)\WebApplication1\obj\Debug\net8.0\refint
 C:\Users\gabri\Desktop\Nueva carpeta (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\gabri\Desktop\Nueva carpeta (2)\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\gabri\Desktop\Nueva carpeta (2)\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\gabri\Desktop\Pija\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
